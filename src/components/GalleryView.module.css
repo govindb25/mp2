@@ -1,0 +1,29 @@
+.container {
+    text-align: center;
+  }
+  
+  .searchInput, .select {
+    padding: 8px 12px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .galleryContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .galleryItem {
+    width: 200px;
+    text-align: center;
+  }
+  
+  .image {
+    width: 100%;
+    border-radius: 5px;
+  }
+  

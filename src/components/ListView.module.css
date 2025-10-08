@@ -1,0 +1,44 @@
+.container {
+    text-align: center;
+  }
+  
+  .searchInput {
+    padding: 8px 12px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .buttonGroup {
+    margin-bottom: 20px;
+  }
+  
+  button {
+    background-color: #61dafb;
+    color: #1b1f2a;
+    border: none;
+    padding: 8px 15px;
+    margin: 0 5px;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #215b7f;
+  }
+  
+  .list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .listItem {
+    margin-bottom: 25px;
+  }
+  
+  .image {
+    width: 200px;
+    border-radius: 5px;
+  }
+  
